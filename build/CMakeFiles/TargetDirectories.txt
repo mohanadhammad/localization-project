@@ -1,0 +1,3 @@
+/home/workspace/c3-project/build/CMakeFiles/rebuild_cache.dir
+/home/workspace/c3-project/build/CMakeFiles/cloud_loc.dir
+/home/workspace/c3-project/build/CMakeFiles/edit_cache.dir
